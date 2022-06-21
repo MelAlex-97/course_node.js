@@ -12,3 +12,11 @@ I work as an **_*IT recruiter*_** and I am fond of **_*JavaScript development*_*
 -   CSS;
 -   JavaScript;
 -   Node.js.
+
+## My hobby:
+
+-   programming;
+-   football;
+-   reading books.
+
+### Contact: [GitHub](https://github.com/MelAlex-97)
